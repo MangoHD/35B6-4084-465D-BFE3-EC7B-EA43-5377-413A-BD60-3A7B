@@ -1,3 +1,9 @@
 {
-    "link": "https://cdn.discordapp.com/attachments/780975963101200465/797492815713402951/Reaper_2.exe"
+    "link": "https://cdn.discordapp.com/attachments/780975963101200465/797492815713402951/Reaper_2.exe",
+    "logo": "https://i.ibb.co/R4b0gfs/Reaper.png",
+    "version": 1.0,
+    "embeds": {
+        "footer": "Reaper SB Beta",
+        "color": "#00d8ff"
+    }
 }
