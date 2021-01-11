@@ -4,6 +4,6 @@
     "version": 1.0,
     "embeds": {
         "footer": "Reaper SB Beta",
-        "color": 0x00d8ff
+        "color": "0x00d8ff"
     }
 }
