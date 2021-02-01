@@ -4,7 +4,7 @@
     "config-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623726388969482/config.yaml",
     "version": "1.0",
     "site-packages": [
-    'setuptools', 
+        'setuptools', 
         'bs4', 
         'base64', 
         'datetime', 
