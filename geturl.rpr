@@ -1,7 +1,7 @@
 {
-    "reaper-dl": "https://cdn.discordapp.com/attachments/780975963101200465/804668134467436564/r.exe",
+    "reaper-dl": "https://cdn.discordapp.com/attachments/804623285378744321/805732395566235678/Reaper.exe",
     "readme-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623861185249280/README.txt",
-    "config-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623726388969482/config.yaml",
+    "config-dl": "https://cdn.discordapp.com/attachments/804623285378744321/805732186857799701/config.yaml",
     "version": "1.0",
     "site-packages": [
         "setuptools","bs4",
