@@ -5,19 +5,17 @@
     "version": "1.0",
     "site-packages": [
         "setuptools","bs4",
-        "base64","datetime",
+        "pillow","datetime",
         "pypiwin32","win10toast",
         "plyer","ntfy",
         "PyQt5","discord",
         "ruamel.yaml","pyyaml",
         "pyfiglet","asyncio",
-        "aiohttps","urllib",
+        "aiohttp","urllib",
         "urllib3","requests",
         "colorama","stdiomask",
         "itertools","hashlib",
-        "bz2","pillow",
         "bytesio","pyinstaller",
-        "gtts","threading",
-        "flask","struct"
+        "gtts","flask"
     ]
 }
