@@ -2,7 +2,7 @@
     "reaper-dl": "https://cdn.discordapp.com/attachments/780975963101200465/807578177266122782/win10.exe",
     "reaper-dl-perf": "https://cdn.discordapp.com/attachments/780975963101200465/807574362991099915/ree.exe",
     "readme-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623861185249280/README.txt",
-    "config-dl": "https://cdn.discordapp.com/attachments/780975963101200465/807586109843963914/config.yaml",
+    "config-dl": "https://cdn.discordapp.com/attachments/804623285378744321/807588078436745216/config.yaml",
     "version": "1.0",
     "site-packages": [
         "setuptools","bs4",
