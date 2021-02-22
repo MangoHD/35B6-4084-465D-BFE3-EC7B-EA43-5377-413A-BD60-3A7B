@@ -3,20 +3,14 @@
     "reaper-dl-perf": "https://cdn.discordapp.com/attachments/809818922911137794/812670204269166592/config_compat.yml",
     "readme-dl": "https://cdn.discordapp.com/attachments/804623285378744321/804623861185249280/README.txt",
     "config-dl": "https://cdn.discordapp.com/attachments/809818922911137794/812670118542311434/config_normal.yml",
-    "version": "1.0",
+    "version": "2.0",
     "site-packages": [
-        "setuptools","bs4",
-        "pillow","datetime",
-        "pypiwin32","win10toast",
-        "plyer","ntfy",
-        "PyQt5","discord",
-        "ruamel.yaml","pyyaml",
-        "pyfiglet","asyncio",
-        "aiohttp","urllib",
+        "setuptools",
+        "pillow",
+        "win10toast",
+        "ntfy","discord",
+        "ruamel.yaml",
         "urllib3","requests",
-        "colorama","stdiomask",
-        "itertools","hashlib",
-        "bytesio","pyinstaller",
-        "gtts","flask"
+        "colorama","pyinstaller"
     ]
 }
